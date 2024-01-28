@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCAy2FTaKwhyL7kVGXFrH/sqfwx9t6XydljRLX9b0QlzcyybFvFLAbywTyRmvR1lZtyXWfxNBrrgmvrfL872bQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Nerwork.web\\Nerwork.web.API\\Nerwork.web.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\User\\source\\repos\\Nerwork.web\\Nerwork.web.Infrastructura\\Nerwork.web.Infrastructura'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\User\\source\\repos\\Nerwork.web\\Nerwork.web.Infrastructura\\Nerwork.web.Infrastructura",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

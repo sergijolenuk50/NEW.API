@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\bin\Debug\net8.0\Nerwork.web.Infrastructura.deps.json
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\bin\Debug\net8.0\Nerwork.web.Infrastructura.dll
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\bin\Debug\net8.0\Nerwork.web.Infrastructura.pdb
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\obj\Debug\net8.0\Nerwork.web.Infrastructura.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\obj\Debug\net8.0\Nerwork.web.Infrastructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\obj\Debug\net8.0\Nerwork.web.Infrastructura.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\obj\Debug\net8.0\Nerwork.web.Infrastructura.AssemblyInfo.cs
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\obj\Debug\net8.0\Nerwork.web.Infrastructura.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\obj\Debug\net8.0\Nerwork.web.Infrastructura.dll
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\obj\Debug\net8.0\refint\Nerwork.web.Infrastructura.dll
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\obj\Debug\net8.0\Nerwork.web.Infrastructura.pdb
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Infrastructura\obj\Debug\net8.0\ref\Nerwork.web.Infrastructura.dll

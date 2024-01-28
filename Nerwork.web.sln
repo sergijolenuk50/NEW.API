@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nerwork.web.API", "Nerwork.web.API\Nerwork.web.API.csproj", "{6B37F5E0-B172-492A-B2C1-25658C46CDD0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4FD85752-9A2F-427E-ABA6-577AEE2EAF19} = {4FD85752-9A2F-427E-ABA6-577AEE2EAF19}
+		{B0D0E13D-FEF0-42E5-84F6-97467A335B31} = {B0D0E13D-FEF0-42E5-84F6-97467A335B31}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nerwork.web.Infrastructura", "Nerwork.web.Infrastructura\Nerwork.web.Infrastructura.csproj", "{B0D0E13D-FEF0-42E5-84F6-97467A335B31}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4FD85752-9A2F-427E-ABA6-577AEE2EAF19} = {4FD85752-9A2F-427E-ABA6-577AEE2EAF19}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nerwork.web.Core", "Nerwork.web.Core\Nerwork.web.Core.csproj", "{4FD85752-9A2F-427E-ABA6-577AEE2EAF19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B37F5E0-B172-492A-B2C1-25658C46CDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B37F5E0-B172-492A-B2C1-25658C46CDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B37F5E0-B172-492A-B2C1-25658C46CDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B37F5E0-B172-492A-B2C1-25658C46CDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D0E13D-FEF0-42E5-84F6-97467A335B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D0E13D-FEF0-42E5-84F6-97467A335B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D0E13D-FEF0-42E5-84F6-97467A335B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D0E13D-FEF0-42E5-84F6-97467A335B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD85752-9A2F-427E-ABA6-577AEE2EAF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD85752-9A2F-427E-ABA6-577AEE2EAF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD85752-9A2F-427E-ABA6-577AEE2EAF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD85752-9A2F-427E-ABA6-577AEE2EAF19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17BA5BA9-A243-4E62-A54D-1723AFD19CD2}
+	EndGlobalSection
+EndGlobal

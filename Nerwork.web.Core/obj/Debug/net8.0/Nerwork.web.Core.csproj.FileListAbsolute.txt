@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Core\bin\Debug\net8.0\Nerwork.web.Core.deps.json
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Core\bin\Debug\net8.0\Nerwork.web.Core.dll
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Core\bin\Debug\net8.0\Nerwork.web.Core.pdb
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Core\obj\Debug\net8.0\Nerwork.web.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Core\obj\Debug\net8.0\Nerwork.web.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Core\obj\Debug\net8.0\Nerwork.web.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Core\obj\Debug\net8.0\Nerwork.web.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Core\obj\Debug\net8.0\Nerwork.web.Core.dll
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Core\obj\Debug\net8.0\refint\Nerwork.web.Core.dll
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Core\obj\Debug\net8.0\Nerwork.web.Core.pdb
+C:\Users\User\source\repos\Nerwork.web\Nerwork.web.Core\obj\Debug\net8.0\ref\Nerwork.web.Core.dll
